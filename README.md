@@ -3,13 +3,7 @@ An executive-level Power BI case study analyzing customer sentiment, operational
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <a href="Images/British_Airways_Dashboard.png">
-    <img src="Images/British_Airways_Dashboard.png"
-         alt="British Airways Passenger Analytics Dashboard"
-         width="1000">
-  </a>
-</p>
+![British Airways Passenger Analytics Dashboard](https://github.com/arushinigam58-ui/British---Airways---Passenger---Analytics/raw/main/Full%20Dashboard.png)
 --
 
 
