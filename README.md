@@ -2,7 +2,7 @@
 An executive-level Power BI case study analyzing customer sentiment, operational service metrics, and fleet performance for British Airways. This project translates raw passenger feedback into actionable, data-driven strategies for airline executives.
 
 ## 🖼️ Dashboard Preview
-https://github.com/arushinigam58-ui/British---Airways---Passenger---Analytics/blob/main/Full%20Dashboard.png
+![British Airways Executive Dashboard](https://raw.githubusercontent.com/arushinigam58-ui/British---Airways---Passenger---Analytics/main/input_file_5.png)
 --
 
 
